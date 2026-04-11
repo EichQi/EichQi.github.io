@@ -75,8 +75,8 @@ My supervisor at Southeast University is [Prof. Chengcheng Xu](https://scholar.g
 ## 🎖 Scholarships
 {: #scholarships }
 
-* National Scholarship (awarded for three consecutive years), 2019-2022
+* **National Scholarship** (awarded for three consecutive years), 2019-2022
 * Academic Excellence Scholarship for ranking in the top 10% of the major (awarded for three consecutive years), 2019-2022
 * College Contribution Scholarship (awarded for three consecutive years), 2019-2022
-* Course Excellence Scholarship for ranking in the top 10% of the university (awarded in 7 out of 10 courses), 2018-2022
 * Merchants Highway First Class Scholarship (awarded twice; only 15 students university-wide), 2020-2021
+* Course Excellence Scholarship for ranking in the top 10% of the university (awarded in 7 out of 10 courses), 2018-2022
