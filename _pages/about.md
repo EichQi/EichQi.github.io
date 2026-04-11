@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<span id="about-me"></span>
+
 I am a Ph.D. candidate in Transportation Engineering at [Southeast University (SEU)](https://www.seu.edu.cn/english/) in Nanjing, China. Currently, I am a Visiting Scholar at the Department of Civil, Environmental, and Geo-Engineering (CEGE) at the **University of Minnesota, Twin Cities (UMN)** (Jan 2026 - Present).
 
 My supervisor at Southeast University is [Prof. Chengcheng Xu](https://scholar.google.com/citations?user=LzmJ1nkAAAAJ&hl=en). At the University of Minnesota, College of Science and Engineering, Department of Civil, Environmental, and Geo-Engineering, I am advised by [Prof. Michael Levin](https://sites.google.com/umn.edu/mlevin/home?authuser=0).
@@ -35,6 +37,7 @@ My supervisor at Southeast University is [Prof. Chengcheng Xu](https://scholar.g
 * **[2025.05]** I was funded by the China Scholarship Council (CSC) to undertake an 18-month visiting exchange at the University of Minnesota, USA.
 
 ## 📚 Publications
+{: #publications }
 
 ### Journal Articles
 
@@ -59,6 +62,7 @@ My supervisor at Southeast University is [Prof. Chengcheng Xu](https://scholar.g
 
 
 ## 🏆 Competitions
+{: #competitions }
 
 * Provincial 1st Prize, The 12th Higher Mathematics Competition for College Students (Dec. 2019)
 * National 2nd Prize, The 15th National College Student Transportation Science and Technology Competition (Nov. 2020)
@@ -69,6 +73,7 @@ My supervisor at Southeast University is [Prof. Chengcheng Xu](https://scholar.g
 * National 1st Prize, National Finals of the 25th China Robotics and Artificial Intelligence Competition (Mar. 2023)
 
 ## 🎖 Scholarships
+{: #scholarships }
 
 * National Scholarship (awarded for three consecutive years), 2019-2022
 * Academic Excellence Scholarship for ranking in the top 10% of the major (awarded for three consecutive years), 2019-2022
