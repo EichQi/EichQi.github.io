@@ -38,25 +38,25 @@ My supervisor at Southeast University is [Prof. Chengcheng Xu](https://scholar.g
 
 ### Journal Articles
 
-* Haoran Wen, Dong Zhao, Zeyu Meng, **Qi Ai**, Wei Wang, Xinyue Hua, and Weibo Yu (2026). "Reframing the Holiday Peak: Structural Reconfiguration and Shifting Mechanisms of Intercity Mobility Networks in China." *Journal of Transport Geography*.
-* **Qi Ai**, Chengcheng Xu, Hao Tong, Haoran Wen, Chang Peng, and Michael Levin (2026). "An Integrated Resilience Dynamic Assessment Framework for Urban Road Transportation Systems under Daily Disruptions." *Journal of Cleaner Production*.
-* Chang Peng, Chengcheng Xu, Fedor Kudryavtsev, **Qi Ai**, Yang Gao, and Yixin Jiao (2025). "Spatiotemporal Factorized Graph Neural Networks for Joint Large-Scale Traffic Prediction and Online Pattern Recognition." *IEEE Transactions on Intelligent Transportation Systems*.
-* Hao Tong, Chengcheng Xu, **Qi Ai**, Weilin Ren, Changshuai Wang, Chang Peng, and Yixin Jiao (2025). "Developing a Jam-Absorption Strategy for Mixed Traffic Flow at Signalized Intersections Using Deep Reinforcement Learning." *Transportation Letters*.
-* Chang Peng, Chengcheng Xu, Hao Chen, **Qi Ai**, Guangyuan Zhang, and Xinyu Cui (2025). "Large Language Models as Spatiotemporal Graph Learning Enhancers for Large-Scale Traffic Forecasting." *Transportation Letters*.
-* Lijuan Jiao, Chengcheng Xu, Chang Peng, **Qi Ai**, Changshuai Wang, and Weilin Ren (2025). "Using Deep Learning Methods to Optimize Freeway Traffic Flow Sensor Spacing Based on Empirical Data." *Journal of Intelligent Transportation Systems*.
-* Hao Tong, Chengcheng Xu, **Qi Ai**, Chang Peng, Weilin Ren, and Changshuai Wang (2025). "Autonomous Intersection Management: Graph-Reinforcement Learning Method Based on Road Information Enhancement." *Transportmetrica A: Transport Science*.
-* Kangnan Wang, Peilong Li, **Qi Ai**, and Xiaofeng Wei (2022). "Study on Water Distribution Characteristics of Surface Gathered Water and Water Film Thickness Model." *Alexandria Engineering Journal*.
+* Wen, H., Zhao, D., Meng, Z., **Ai, Q.**, Wang, W., Hua, X., & Yu, W. (2026). "Reframing the Holiday Peak: Structural Reconfiguration and Shifting Mechanisms of Intercity Mobility Networks in China." *Journal of Transport Geography*.
+* **Ai, Q.**, Xu, C., Tong, H., Wen, H., Peng, C., & Levin, M. (2026). "An Integrated Resilience Dynamic Assessment Framework for Urban Road Transportation Systems under Daily Disruptions." *Journal of Cleaner Production*.
+* Peng, C., Xu, C., Kudryavtsev, F., **Ai, Q.**, Gao, Y., & Jiao, Y. (2025). "Spatiotemporal Factorized Graph Neural Networks for Joint Large-Scale Traffic Prediction and Online Pattern Recognition." *IEEE Transactions on Intelligent Transportation Systems*.
+* Tong, H., Xu, C., **Ai, Q.**, Ren, W., Wang, C., Peng, C., & Jiao, Y. (2025). "Developing a Jam-Absorption Strategy for Mixed Traffic Flow at Signalized Intersections Using Deep Reinforcement Learning." *Transportation Letters*.
+* Peng, C., Xu, C., Chen, H., **Ai, Q.**, Zhang, G., & Cui, X. (2025). "Large Language Models as Spatiotemporal Graph Learning Enhancers for Large-Scale Traffic Forecasting." *Transportation Letters*.
+* Jiao, L., Xu, C., Peng, C., **Ai, Q.**, Wang, C., & Ren, W. (2025). "Using Deep Learning Methods to Optimize Freeway Traffic Flow Sensor Spacing Based on Empirical Data." *Journal of Intelligent Transportation Systems*.
+* Tong, H., Xu, C., **Ai, Q.**, Peng, C., Ren, W., & Wang, C. (2025). "Autonomous Intersection Management: Graph-Reinforcement Learning Method Based on Road Information Enhancement." *Transportmetrica A: Transport Science*.
+* Wang, K., Li, P., **Ai, Q.**, & Wei, X. (2022). "Study on Water Distribution Characteristics of Surface Gathered Water and Water Film Thickness Model." *Alexandria Engineering Journal*.
 
 ### Conference Papers
 
-* **Qi Ai**, Chengcheng Xu, Hao Tong (2025). "A Deep Spatio-Temporal Graph Attention Operator Network for Traffic Speed Prediction on Highways." *The 104th Annual Meeting of the Transportation Research Board (TRB 2025), accepted for presentation*.
-* Hao Tong, Chengcheng Xu, **Qi Ai** (2026). "A Hierarchical Semantic-Motion Fusion Framework Driven by Vision-Language Models for Traffic Crash Detection." *The 105th Annual Meeting of the Transportation Research Board (TRB 2026), accepted for presentation*.
-* **Qi Ai**, Chengcheng Xu, Hao Tong, Lexing Zhang, Chang Peng (2026). "From Network-wide Resilience Assessment to Link-level Grading: An Integrated Framework for Urban Road Transportation Systems under Minor Disturbances." *The 105th Annual Meeting of the Transportation Research Board (TRB 2026), accepted for presentation*.
+* **Ai, Q.**, Xu, C., & Tong, H. (2025). "A Deep Spatio-Temporal Graph Attention Operator Network for Traffic Speed Prediction on Highways." *The 104th Annual Meeting of the Transportation Research Board (TRB 2025), accepted for presentation*.
+* Tong, H., Xu, C., & **Ai, Q.** (2026). "A Hierarchical Semantic-Motion Fusion Framework Driven by Vision-Language Models for Traffic Crash Detection." *The 105th Annual Meeting of the Transportation Research Board (TRB 2026), accepted for presentation*.
+* **Ai, Q.**, Xu, C., Tong, H., Zhang, L., & Peng, C. (2026). "From Network-wide Resilience Assessment to Link-level Grading: An Integrated Framework for Urban Road Transportation Systems under Minor Disturbances." *The 105th Annual Meeting of the Transportation Research Board (TRB 2026), accepted for presentation*.
 
 ## 💻 Technical Skills
 
-* **Algorithms & Methods:** Adaptive Large Neighborhood Search (ALNS), Benders Decomposition, Deep Reinforcement Learning, Spatio-Temporal Graph Neural Networks
-* **Tools & Software:** SUMO, AutoDL, Python, AutoCAD, SPSS
+* **Algorithms & Methods:** Adaptive Large Neighborhood Search (ALNS), Benders Decomposition, Branch-Price-and-Cut (BPC), Deep Reinforcement Learning, Spatio-Temporal Graph Neural Networks
+
 
 ## 🏆 Competitions
 
