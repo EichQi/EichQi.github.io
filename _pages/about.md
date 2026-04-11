@@ -52,9 +52,9 @@ My supervisor at Southeast University is [Prof. Chengcheng Xu](https://scholar.g
 
 ### Conference Papers
 
-* **Ai, Q.**, Xu, C., & Tong, H. (2025). "A Deep Spatio-Temporal Graph Attention Operator Network for Traffic Speed Prediction on Highways." *The 104th Annual Meeting of the Transportation Research Board (TRB 2025), accepted for presentation*.
 * Tong, H., Xu, C., & **Ai, Q.** (2026). "A Hierarchical Semantic-Motion Fusion Framework Driven by Vision-Language Models for Traffic Crash Detection." *The 105th Annual Meeting of the Transportation Research Board (TRB 2026), accepted for presentation*.
 * **Ai, Q.**, Xu, C., Tong, H., Zhang, L., & Peng, C. (2026). "From Network-wide Resilience Assessment to Link-level Grading: An Integrated Framework for Urban Road Transportation Systems under Minor Disturbances." *The 105th Annual Meeting of the Transportation Research Board (TRB 2026), accepted for presentation*.
+* **Ai, Q.**, Xu, C., & Tong, H. (2025). "A Deep Spatio-Temporal Graph Attention Operator Network for Traffic Speed Prediction on Highways." *The 104th Annual Meeting of the Transportation Research Board (TRB 2025), accepted for presentation*.
 
 ## 💻 Technical Skills
 
@@ -64,13 +64,13 @@ My supervisor at Southeast University is [Prof. Chengcheng Xu](https://scholar.g
 ## 🏆 Competitions
 {: #competitions }
 
-* Provincial 1st Prize, The 12th Higher Mathematics Competition for College Students (Dec. 2019)
+* First Prize, National Finals of the 25th China Robotics and Artificial Intelligence Competition (Mar. 2023)
+* Provincial 2nd Prize, "Higher Education Society Cup" National Undergraduate Mathematical Contest in Modeling (Nov. 2021)
+* Provincial 2nd Prize, the 13th "Challenge Cup" College Students Extracurricular Academic Science and Technology Works Competition (May. 2021)
+* Honorable Mention, 2021 American Collegiate Mathematical Modeling Contest (Mar. 2021)
 * National 2nd Prize, The 15th National College Student Transportation Science and Technology Competition (Nov. 2020)
 * Provincial 2nd Prize, "Higher Education Society Cup" National Undergraduate Mathematical Contest in Modeling (Nov. 2020)
-* Provincial 2nd Prize, "Higher Education Society Cup" National Undergraduate Mathematical Contest in Modeling (Nov. 2021)
-* Honorable Mention, 2021 American Collegiate Mathematical Modeling Contest (Mar. 2021)
-* Provincial 2nd Prize, the 13th "Challenge Cup" College Students Extracurricular Academic Science and Technology Works Competition (May. 2021)
-* National 1st Prize, National Finals of the 25th China Robotics and Artificial Intelligence Competition (Mar. 2023)
+* Provincial 1st Prize, The 12th Higher Mathematics Competition for College Students (Dec. 2019)
 
 ## 🎖 Scholarships
 {: #scholarships }
