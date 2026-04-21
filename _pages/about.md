@@ -31,6 +31,7 @@ My supervisor at Southeast University is [Prof. Chengcheng Xu](https://scholar.g
 
 ## 📰 Recent News
 
+* **[2026.04]** My first-author paper "Daily Resilience of Urban Road Transportation Systems: Assessment, Enhancement, and Recovery" was published in *Reliability Engineering & System Safety*.
 * **[2026.03]** My first-author paper "An Integrated Resilience Dynamic Assessment Framework for Urban Road Transportation Systems under Daily Disruptions" was published in *Journal of Cleaner Production*.
 * **[2025.10]** My first-author paper "From Network-wide Resilience Assessment to Link-level Grading: An Integrated Framework for Urban Road Transportation Systems under Minor Disturbances" was published at TRB 2026.
 * **[2025.10]** As a co-author, I contributed to the paper "A Hierarchical Semantic-Motion Fusion Framework Driven by Vision-Language Models for Traffic Crash Detection", published at TRB 2026.
@@ -41,6 +42,7 @@ My supervisor at Southeast University is [Prof. Chengcheng Xu](https://scholar.g
 
 ### Journal Articles
 
+* **Ai, Q.**, Xu, C., Tong, H., Peng, C., Wen, H., & Levin, M. (2026). "Daily Resilience of Urban Road Transportation Systems: Assessment, Enhancement, and Recovery." *Reliability Engineering & System Safety*.
 * Wen, H., Zhao, D., Meng, Z., **Ai, Q.**, Wang, W., Hua, X., & Yu, W. (2026). "Reframing the Holiday Peak: Structural Reconfiguration and Shifting Mechanisms of Intercity Mobility Networks in China." *Journal of Transport Geography*.
 * **Ai, Q.**, Xu, C., Tong, H., Wen, H., Peng, C., & Levin, M. (2026). "An Integrated Resilience Dynamic Assessment Framework for Urban Road Transportation Systems under Daily Disruptions." *Journal of Cleaner Production*.
 * Peng, C., Xu, C., Kudryavtsev, F., **Ai, Q.**, Gao, Y., & Jiao, Y. (2025). "Spatiotemporal Factorized Graph Neural Networks for Joint Large-Scale Traffic Prediction and Online Pattern Recognition." *IEEE Transactions on Intelligent Transportation Systems*.
