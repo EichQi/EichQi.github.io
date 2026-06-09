@@ -31,6 +31,7 @@ My supervisor at Southeast University is [Prof. Chengcheng Xu](https://scholar.g
 
 ## 📰 Recent News
 
+* **[2026.06]** As a corresponding author, my paper "A Deep Spatio-temporal Graph Attention Network to Learn Nonlinear Operators for Traffic Prediction" was published in *Physica A: Statistical Mechanics and its Applications*.
 * **[2026.05]** As a co-author, I contributed to the paper "MASC: Joint Motion-Aware and VLM-Semantic Augmentation for Contextual Traffic Anomaly Detection", published in *Pattern Recognition*.
 * **[2026.04]** My first-author paper "Daily Resilience of Urban Road Transportation Systems: Assessment, Enhancement, and Recovery" was published in *Reliability Engineering & System Safety*.
 * **[2026.03]** My first-author paper "An Integrated Resilience Dynamic Assessment Framework for Urban Road Transportation Systems under Daily Disruptions" was published in *Journal of Cleaner Production*.
@@ -42,6 +43,7 @@ My supervisor at Southeast University is [Prof. Chengcheng Xu](https://scholar.g
 {: #publications }
 
 ### Journal Articles
+* Tong, H., **Ai, Q.(Corr)** (2026). "A Deep Spatio-temporal Graph Attention Network to Learn Nonlinear Operators for Traffic Prediction." *Physica A: Statistical Mechanics and its Applications*.
 * Tong, H., Xu, C., Yang, D., **Ai, Q.**, Chen, H., & Lai, H. (2026). "MASC: Joint Motion-Aware and VLM-Semantic Augmentation for Contextual Traffic Anomaly Detection." *Pattern Recognition*.
 * **Ai, Q.**, Xu, C., Tong, H., Peng, C., Wen, H., & Levin, M. (2026). "Daily Resilience of Urban Road Transportation Systems: Assessment, Enhancement, and Recovery." *Reliability Engineering & System Safety*.
 * Wen, H., Zhao, D., Meng, Z., **Ai, Q.**, Wang, W., Hua, X., & Yu, W. (2026). "Reframing the Holiday Peak: Structural Reconfiguration and Shifting Mechanisms of Intercity Mobility Networks in China." *Journal of Transport Geography*.
