@@ -31,6 +31,7 @@ My supervisor at Southeast University is [Prof. Chengcheng Xu](https://scholar.g
 
 ## 📰 Recent News
 
+* **[2026.06]** Reviewer for **International Journal of Disaster Risk Reduction** (JCR Q1, Top journal).
 * **[2026.06]** As a corresponding author, my paper "A Deep Spatio-temporal Graph Attention Network to Learn Nonlinear Operators for Traffic Prediction" was published in *Physica A: Statistical Mechanics and its Applications*.
 * **[2026.05]** As a co-author, I contributed to the paper "MASC: Joint Motion-Aware and VLM-Semantic Augmentation for Contextual Traffic Anomaly Detection", published in *Pattern Recognition*.
 * **[2026.04]** My first-author paper "Daily Resilience of Urban Road Transportation Systems: Assessment, Enhancement, and Recovery" was published in *Reliability Engineering & System Safety*.
